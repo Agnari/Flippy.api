@@ -1,0 +1,6 @@
+@Flippy_Backend_HostAddress = http://localhost:5187
+
+GET {{Flippy_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
